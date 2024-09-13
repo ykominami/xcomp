@@ -1,0 +1,15 @@
+.wrapper {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 20px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ed3b7d;
+  height: 60px;
+}
+
+span {
+  color: #ffffff;
+  font-size: 36px;
+}
