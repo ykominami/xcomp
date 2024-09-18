@@ -4,7 +4,7 @@ import './header.css';
 const Header = () => (
   <header>
     <div className="wrapper">
-      <span>CANDY CHUPS Lab.</span>
+      <span>CANDY CHUPS Lab. 0.0.2</span>
     </div>
   </header>
 );
